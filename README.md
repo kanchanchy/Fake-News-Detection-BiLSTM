@@ -1,1 +1,1 @@
-# Fake-News-Detection-BiLSTM
+# Fake News Detection with a Bi-directional LSTM in Keras
